@@ -1,2 +1,2 @@
 # Sales-Dashbord
-Sales compaies ,Top profit ,Top products
+Sales companies ,Top profit ,Top products
